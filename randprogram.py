@@ -28,6 +28,6 @@ while solved == False:
         print(f"{guess} was incorrect")
         
         
-def add(var, var2):
-    return var+var2
-print(add(1,8))
+# def add(var, var2):
+#     return var+var2
+# print(add(1,8))
